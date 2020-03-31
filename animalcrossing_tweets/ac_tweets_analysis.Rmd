@@ -1,0 +1,15 @@
+---
+title: "Animal Crossing Tweets"
+author: "Hazel KAVILI"
+date: "3/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(rtweet)
+library(tidytext)
+library(stringr)
+library(janitor)
+```
+
